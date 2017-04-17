@@ -2,6 +2,10 @@
 
 ---
 
+自己学習用
+
+---
+
 ![表紙](https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/deep-learning-from-scratch.png)
 
 ---
